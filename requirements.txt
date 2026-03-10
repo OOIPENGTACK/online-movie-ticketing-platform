@@ -1,0 +1,4 @@
+fpdf2
+qrcode
+tabulate
+validator-collection
